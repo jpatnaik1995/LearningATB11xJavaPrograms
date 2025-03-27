@@ -60,12 +60,6 @@ public class MethodsOfStringClass {
         //contains
         System.out.println(s1.contains("r"));
 
-
-
-
-
-
-
     }
     public static void main(String[] args) {
     methodsOfString();

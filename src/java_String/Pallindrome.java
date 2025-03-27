@@ -20,6 +20,7 @@ public class Pallindrome {
             System.out.println(reverse + " is not a Pallindrome");
         }
         }
+
     public static void main(String[] args) {
     isPallindrome();
     }

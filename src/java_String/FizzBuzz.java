@@ -16,7 +16,6 @@ public class FizzBuzz {
                 System.out.println(i);
         }
     }
-
     public static void main(String[] args) {
         FizzBuzz();
     }
